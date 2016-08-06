@@ -1,0 +1,30 @@
+_repo: Cinderella_10830
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Thwaites, William H.
+    gutenberg_agent_id: '40454'
+    url: http://www.gutenberg.org/2009/agents/40454
+creator:
+  author:
+    agent_name: Hewet, Henry W.
+    aliases:
+    - Hewet, H. W. (Henry W.)
+    - Hewett, H. W. (Henry W.)
+    gutenberg_agent_id: '3708'
+    url: http://www.gutenberg.org/2009/agents/3708
+description: From Hewet's Illuminated Household Stories For Little Folks, Vol. I.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+title: Cinderella
+url: http://www.gutenberg.org/ebooks/10830
